@@ -13,7 +13,7 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        invalid_key_to_break_syntax: yes
+
 
       - name: Mostrar información del entorno
         run: |
