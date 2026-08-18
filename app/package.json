@@ -1,0 +1,13 @@
+{
+  "name": "ci-cd-labs-app",
+  "version": "1.0.0",
+  "description": "App para Laboratorio 3",
+  "main": "math.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
